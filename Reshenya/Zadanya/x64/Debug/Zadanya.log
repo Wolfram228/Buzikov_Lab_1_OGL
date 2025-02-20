@@ -1,0 +1,14 @@
+﻿  Zadanya.cpp
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(29,32): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(29,27): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(29,22): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(31,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(31,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(31,19): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(34,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(35,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(35,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(36,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(36,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\Zadanya\Zadanya.cpp(37,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  Zadanya.vcxproj -> C:\Users\user\Desktop\All\Education\Графика_Корж\Prymougolnik\Reshenya\x64\Debug\Zadanya.exe

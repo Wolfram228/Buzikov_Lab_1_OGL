@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\All\\Education\\\u0413\u0440\u0430\u0444\u0438\u043A\u0430_\u041A\u043E\u0440\u0436\\Prymougolnik\\Reshenya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9935B3-8B95-473C-AD5C-E1BC8D5B9857}|Zadanya\\Zadanya.vcxproj|C:\\Users\\user\\Desktop\\All\\Education\\\u0413\u0440\u0430\u0444\u0438\u043A\u0430_\u041A\u043E\u0440\u0436\\Prymougolnik\\Reshenya\\Zadanya\\Zadanya.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A9935B3-8B95-473C-AD5C-E1BC8D5B9857}|Zadanya\\Zadanya.vcxproj|solutionrelative:Zadanya\\Zadanya.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadanya.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\All\\Education\\\u0413\u0440\u0430\u0444\u0438\u043A\u0430_\u041A\u043E\u0440\u0436\\Prymougolnik\\Reshenya\\Zadanya\\Zadanya.cpp",
+              "RelativeDocumentMoniker": "Zadanya\\Zadanya.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\All\\Education\\\u0413\u0440\u0430\u0444\u0438\u043A\u0430_\u041A\u043E\u0440\u0436\\Prymougolnik\\Reshenya\\Zadanya\\Zadanya.cpp",
+              "RelativeToolTip": "Zadanya\\Zadanya.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T00:33:55.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
