@@ -1,0 +1,6 @@
+﻿  Zadanya.cpp
+C:\Users\user\Desktop\All\Education\Компьютерная графика\Buzikov_Lab_1_OGL-sh\Reshenya\Zadanya\Zadanya.cpp(58,32): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\user\Desktop\All\Education\Компьютерная графика\Buzikov_Lab_1_OGL-sh\Reshenya\Zadanya\Zadanya.cpp(58,27): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\user\Desktop\All\Education\Компьютерная графика\Buzikov_Lab_1_OGL-sh\Reshenya\Zadanya\Zadanya.cpp(58,22): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\user\Desktop\All\Education\Компьютерная графика\Buzikov_Lab_1_OGL-sh\Reshenya\Zadanya\Zadanya.cpp(61,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Zadanya.vcxproj -> C:\Users\user\Desktop\All\Education\Компьютерная графика\Buzikov_Lab_1_OGL-sh\Reshenya\x64\Debug\Zadanya.exe
