@@ -1,4 +1,4 @@
-﻿#include "Shader.h"
+#include "Shader.h"
 #define GLEW_DLL
 #define GLFW_DLL
 #include "GL/glew.h"
@@ -92,15 +92,15 @@ int main() {
 
         // Материал
         shader.setVec3("material.ambient", sin(t+0.1f), 0.2f, 0.8f);
-        shader.setVec3("material.diffuse", sin(t+0.1f), 0.0f, 0.4f);
-        shader.setVec3("material.specular", 0.1f, 0.0f, 0.1f);
-        shader.setFloat("material.shininess", 100.0f);
+        shader.setVec3("material.diffuse", 0.7f, 0.7f, 0.4f);
+        shader.setVec3("material.specular", 0.4f, 0.0f, 0.4f);
+        shader.setFloat("material.shininess", 10.0f);
 
         // Свет
         shader.setVec3("light.ambient", 0.7f, 0.7f, 0.7f);
         shader.setVec3("light.diffuse", 0.4f, 0.7f, 0.4f);
-        shader.setVec3("light.specular", 0.4f, 0.4f, 0.4f);
-        shader.setVec3("light.position", 40.0f, 20.0f, 100.0f);
+        shader.setVec3("light.specular", 0.7f, 0.7f, 0.7f);
+        shader.setVec3("light.position", 40.0f, 20.0f, 10.0f);
 
         // Камера
         shader.setVec3("viewPos", CameraPos.x, CameraPos.y, CameraPos.z);
