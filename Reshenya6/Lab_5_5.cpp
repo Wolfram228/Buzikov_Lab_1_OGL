@@ -93,8 +93,8 @@ int main() {
         // Материал
         shader.setVec3("material.ambient", sin(t+0.1f), 0.2f, 0.8f);
         shader.setVec3("material.diffuse", 0.7f, 0.7f, 0.4f);
-        shader.setVec3("material.specular", 0.4f, 0.0f, 0.4f);
-        shader.setFloat("material.shininess", 10.0f);
+        shader.setVec3("material.specular", 1.0f, 1.0f, 1.0f);
+        shader.setFloat("material.shininess", 128.0f);
 
         // Свет
         shader.setVec3("light.ambient", 0.7f, 0.7f, 0.7f);
